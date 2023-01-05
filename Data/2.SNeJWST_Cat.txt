@@ -1,1 +1,0 @@
-#Galaxy,Supernova,Ra,Dec,xCoord,yCoord,Type,Intensity
