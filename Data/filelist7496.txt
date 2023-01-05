@@ -1,0 +1,1 @@
+jw02107-o041_t019_nircam_clear-f200w_i2d.fitsjw02107-o041_t019_nircam_clear-f300m_i2d.fitsjw02107-o041_t019_nircam_clear-f335m_i2d.fitsjw02107-o041_t019_nircam_clear-f360m_i2d.fitsngc7496_miri_lvl3_f770w_i2d.fitsngc7496_miri_lvl3_f1000w_i2d.fitsngc7496_miri_lvl3_f1130w_i2d.fitsngc7496_miri_lvl3_f2100w_i2d.fits
